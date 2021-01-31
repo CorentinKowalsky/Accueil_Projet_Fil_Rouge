@@ -1,3 +1,9 @@
-body{
-
+#Titre{
+    color: white;
+}
+#first{
+    margin-top: 10%;
+}
+.Hello{
+    display: none ;
 }
